@@ -1,0 +1,11 @@
+/CPAN-Test-Dummy-Perl5-Requires-*.tar.gz
+/CPAN-Test-Dummy-Perl5-Requires-[0-9]*.[0-9]*
+/MANIFEST.SKIP.bak
+/MANIFEST.bak
+/MYMETA.json
+/MYMETA.yml
+/Makefile
+/Makefile.old
+/blib
+/cover_db
+/pm_to_blib
